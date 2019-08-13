@@ -96,7 +96,7 @@ ol li
   margin: 20px auto;}
 
 #header
-{ width: 952px;
+{ width: 942px;
   height: 145px;}
 
 #logo
@@ -159,7 +159,7 @@ ul#menu li.current a
   padding: 6px 22px 15px 22px;}
 
 ul#menu li.current a
-{ background: #fff;
+{ background: #ccc;
   border: 1px solid #ddd;
   border-bottom: 0;
   color: #F14E23;}
